@@ -1,0 +1,9 @@
+---
+title: "READme"
+author: "Joen Haahr Jensen"
+date: "14/03/2021"
+output: html_document
+---
+
+Hi there,
+this is a draft of something.
