@@ -7,3 +7,5 @@ output: html_document
 
 Hi there,
 this is a draft of something.
+
+After we did the clone, commit and push, I am now altering the master branch to test merge
