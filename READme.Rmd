@@ -7,3 +7,5 @@ output: html_document
 
 Hi there,
 this is a draft of something.
+
+Now we make other changes here
